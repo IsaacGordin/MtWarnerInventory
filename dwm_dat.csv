@@ -1,0 +1,247 @@
+"TransID","Stand","Species","du","dl","length","decay_class"
+1,"pine-hardwoods","Unknown",0.366666666666667,0.215833333333333,30,2
+1,"pine-hardwoods","American beech",0.258333333333333,0.224166666666667,9.6,2
+1,"pine-hardwoods","Unknown",0.333333333333333,0.279166666666667,11.9,4
+1,"pine-hardwoods","American beech",0.35,0.2875,13,2
+1,"pine-hardwoods","Unknown",0.35,0.2275,25.4,3
+1,"pine-hardwoods","Unknown",0.416666666666667,0.325,16,4
+1,"pine-hardwoods","Eastern white pine",0.283333333333333,0.19,24,2
+2,"pine-hardwoods","Pignut hickory",0.666666666666667,0.4925,19,3
+2,"pine-hardwoods","Red maple",0.75,0.5125,23,3
+3,"hemlock-hardwoods","Red maple",0.416666666666667,0.3025,20,3
+3,"hemlock-hardwoods","Oak spp.",0.5,0.445,8,2
+3,"hemlock-hardwoods","Maple spp.",0.416666666666667,0.3825,6,2
+3,"hemlock-hardwoods","Hickory spp.",0.666666666666667,0.3275,37,2
+3,"hemlock-hardwoods","Hickory spp.",0.333333333333333,0.241666666666667,20,2
+3,"hemlock-hardwoods","Hickory spp.",0.75,0.3475,39,2
+3,"hemlock-hardwoods","Hickory spp.",0.333333333333333,0.278333333333333,12,2
+4,"hemlock-hardwoods","Eastern hemlock",0.833333333333333,0.558333333333333,24,4
+4,"hemlock-hardwoods","Sugar maple",0.520833333333333,0.438333333333333,11.5,4
+4,"hemlock-hardwoods","Sugar maple",0.25,0.2375,3.75,4
+5,"pine-hardwoods","Black birch",0.291666666666667,0.175,29,2
+5,"pine-hardwoods","Eastern white pine",0.375,0.313333333333333,12,4
+5,"pine-hardwoods","Eastern hemlock",0.5,0.349166666666667,22,4
+6,"pine-hardwoods","Black birch",0.3,0.210833333333333,21.6,1
+6,"pine-hardwoods","Unknown",0.333333333333333,0.2375,21,4
+6,"pine-hardwoods","Eastern white pine",0.983333333333333,0.564166666666667,31,4
+6,"pine-hardwoods","Unknown",0.333333333333333,0.305833333333333,6,4
+6,"pine-hardwoods","Unknown",0.666666666666667,0.63,4,5
+6,"pine-hardwoods","American beech",0.416666666666667,0.175833333333333,42,3
+6,"pine-hardwoods","Unknown",0.5,0.2525,36,4
+6,"pine-hardwoods","Unknown",0.416666666666667,0.319166666666667,17,3
+6,"pine-hardwoods","Eastern white pine",0.525,0.359166666666667,23,3
+6,"pine-hardwoods","Black birch",0.433333333333333,0.219166666666667,36,4
+7,"pine-hardwoods","Paper birch",0.583333333333333,0.486666666666667,12,4
+7,"pine-hardwoods","Paper birch",0.6,0.550833333333333,6,5
+7,"pine-hardwoods","Eastern white pine",0.516666666666667,0.398333333333333,16.6,3
+7,"pine-hardwoods","Eastern hemlock",0.5,0.183333333333333,46,1
+8,"pine-hardwoods","Unknown",0.583333333333333,0.278333333333333,38,4
+8,"pine-hardwoods","Unknown",0.416666666666667,0.319166666666667,17,5
+8,"pine-hardwoods","Unknown",0.866666666666667,0.7475,10,4
+8,"pine-hardwoods","Unknown",0.55,0.390833333333333,21,4
+8,"pine-hardwoods","Eastern hemlock",0.333333333333333,0.214166666666667,26,3
+8,"pine-hardwoods","Unknown",0.45,0.419166666666667,5,2
+9,"hemlock-hardwoods","Unknown",0.5,0.39,16,3
+9,"hemlock-hardwoods","Paper birch",0.416666666666667,0.3525,11.2,4
+9,"hemlock-hardwoods","Unknown",0.583333333333333,0.430833333333333,19,3
+9,"hemlock-hardwoods","Eastern hemlock",0.5,0.3075,28,2
+9,"hemlock-hardwoods","Unknown",0.666666666666667,0.2725,43,2
+10,"hemlock-hardwoods","Eastern white pine",1.58333333333333,0.495,50,1
+10,"hemlock-hardwoods","Black birch",0.5,0.424166666666667,11,3
+10,"hemlock-hardwoods","Paper birch",0.333333333333333,0.250833333333333,18,5
+11,"hemlock-hardwoods","Red maple",0.333333333333333,0.278333333333333,12,2
+11,"hemlock-hardwoods","Eastern hemlock",0.333333333333333,0.32,3,1
+11,"hemlock-hardwoods","Northern red oak",0.416666666666667,0.3025,20,1
+11,"hemlock-hardwoods","Northern red oak",0.416666666666667,0.3075,19,1
+11,"hemlock-hardwoods","Eastern hemlock",0.416666666666667,0.348333333333333,12,1
+11,"hemlock-hardwoods","Red maple",0.416666666666667,0.359166666666667,10,3
+11,"hemlock-hardwoods","Red maple",0.416666666666667,0.348333333333333,12,3
+12,"hemlock-hardwoods","Black birch",0.25,0.219166666666667,9,2
+12,"hemlock-hardwoods","Unknown",0.333333333333333,0.305833333333333,6,2
+12,"hemlock-hardwoods","Unknown",0.333333333333333,0.301666666666667,7,2
+13,"hemlock-hardwoods","Black birch",0.666666666666667,0.593333333333333,8,1
+13,"hemlock-hardwoods","Black birch",0.583333333333333,0.423333333333333,20,1
+13,"hemlock-hardwoods","Eastern hemlock",1,0.711666666666667,21,1
+13,"hemlock-hardwoods","Eastern hemlock",0.333333333333333,0.274166666666667,13,1
+13,"hemlock-hardwoods","Eastern hemlock",0.5,0.231666666666667,39,1
+14,"hemlock-hardwoods","Eastern hemlock",0.458333333333333,0.3925,10.5,3
+14,"hemlock-hardwoods","Black birch",0.291666666666667,0.139166666666667,38,1
+14,"hemlock-hardwoods","Eastern hemlock",0.708333333333333,0.6725,3.7,4
+14,"hemlock-hardwoods","Eastern white pine",0.541666666666667,0.1175,57,1
+15,"hemlock-hardwoods","Eastern white pine",0.5,0.1975,44,3
+15,"hemlock-hardwoods","Red maple",0.291666666666667,0.270833333333333,5.25,3
+15,"hemlock-hardwoods","Eastern hemlock",0.416666666666667,0.199166666666667,38,4
+16,"hemlock-hardwoods","Unknown",0.283333333333333,0.255833333333333,7,3
+16,"hemlock-hardwoods","Black birch",0.25,0.245833333333333,1.3,2
+16,"hemlock-hardwoods","Red maple",0.359166666666667,0.2625,19.5,3
+16,"hemlock-hardwoods","Oak spp.",0.475,0.174166666666667,46,3
+17,"hemlock-hardwoods","Black birch",0.25,0.208333333333333,12,1
+17,"hemlock-hardwoods","Unknown",0.658333333333333,0.423333333333333,26,2
+17,"hemlock-hardwoods","Unknown",0.375,0.276666666666667,19,1
+17,"hemlock-hardwoods","Unknown",0.916666666666667,0.550833333333333,29,1
+18,"hemlock-hardwoods","Eastern hemlock",0.5,0.413333333333333,12.6,2
+18,"hemlock-hardwoods","Eastern hemlock",0.708333333333333,0.328333333333333,39,1
+18,"hemlock-hardwoods","Eastern hemlock",0.541666666666667,0.3,32.5,1
+19,"hemlock-hardwoods","Black birch",0.583333333333333,0.495,11,2
+19,"hemlock-hardwoods","Black birch",0.375,0.189166666666667,36,1
+19,"hemlock-hardwoods","Unknown",0.416666666666667,0.3025,20,3
+19,"hemlock-hardwoods","Unknown",0.416666666666667,0.365,9,3
+19,"hemlock-hardwoods","Unknown",0.333333333333333,0.274166666666667,13,4
+20,"hemlock-hardwoods","Eastern hemlock",0.166666666666667,0.148333333333333,8,2
+20,"hemlock-hardwoods","Eastern white pine",0.416666666666667,0.261666666666667,27,2
+20,"hemlock-hardwoods","Eastern hemlock",0.666666666666667,0.391666666666667,30,2
+21,"hemlock-hardwoods","Northern red oak",1,0.45,40,2
+21,"hemlock-hardwoods","Unknown",1.08333333333333,0.1,66,2
+21,"hemlock-hardwoods","Red maple",0.416666666666667,0.394166666666667,4,3
+21,"hemlock-hardwoods","Northern red oak",0.333333333333333,0.2375,21,2
+21,"hemlock-hardwoods","Oak spp.",0.333333333333333,0.26,16,3
+21,"hemlock-hardwoods","Maple spp.",0.25,0.208333333333333,12,2
+21,"hemlock-hardwoods","Unknown",0.333333333333333,0.31,5,3
+21,"hemlock-hardwoods","Oak spp.",0.416666666666667,0.399166666666667,3,2
+21,"hemlock-hardwoods","Unknown",0.416666666666667,0.388333333333333,5,1
+21,"hemlock-hardwoods","Oak spp.",0.25,0.208333333333333,12,2
+21,"hemlock-hardwoods","Hickory spp.",0.416666666666667,0.233333333333333,32,2
+21,"hemlock-hardwoods","Maple spp.",0.25,0.198333333333333,15,2
+22,"hemlock-hardwoods","Northern red oak",0.416666666666667,0.239166666666667,31,2
+22,"hemlock-hardwoods","Northern red oak",0.416666666666667,0.399166666666667,3,3
+22,"hemlock-hardwoods","Northern red oak",0.416666666666667,0.296666666666667,21,2
+22,"hemlock-hardwoods","Northern red oak",0.333333333333333,0.264166666666667,15,3
+22,"hemlock-hardwoods","Northern red oak",0.333333333333333,0.305833333333333,6,2
+23,"hemlock-hardwoods","Unknown",0.375,0.349166666666667,5,4
+23,"hemlock-hardwoods","Black birch",0.358333333333333,0.274166666666667,17,3
+23,"hemlock-hardwoods","Eastern white pine",0.416666666666667,0.348333333333333,12,3
+23,"hemlock-hardwoods","Unknown",0.333333333333333,0.296666666666667,8,4
+23,"hemlock-hardwoods","Black birch",0.45,0.346666666666667,16.7,1
+23,"hemlock-hardwoods","Unknown",0.466666666666667,0.293333333333333,27,1
+23,"hemlock-hardwoods","Unknown",0.258333333333333,0.2425,4.5,1
+24,"hemlock-hardwoods","Eastern white pine",0.875,0.43,37,4
+24,"hemlock-hardwoods","Eastern white pine",0.25,0.181666666666667,20,4
+24,"hemlock-hardwoods","Eastern white pine",0.375,0.251666666666667,24,5
+24,"hemlock-hardwoods","Eastern white pine",0.666666666666667,0.620833333333333,5,5
+24,"hemlock-hardwoods","Eastern white pine",1.02083333333333,0.5575,33,4
+24,"hemlock-hardwoods","Eastern white pine",0.791666666666667,0.443333333333333,32,2
+24,"hemlock-hardwoods","Eastern white pine",0.958333333333333,0.4975,35,3
+25,"hemlock-hardwoods","Unknown",0.416666666666667,0.373333333333333,7.5,5
+25,"hemlock-hardwoods","Eastern white pine",0.333333333333333,0.264166666666667,15,4
+25,"hemlock-hardwoods","Eastern hemlock",0.25,0.14,32,1
+25,"hemlock-hardwoods","Black birch",0.375,0.318333333333333,11,2
+25,"hemlock-hardwoods","Unknown",0.291666666666667,0.278333333333333,3.3,4
+25,"hemlock-hardwoods","Eastern white pine",0.75,0.585,16,4
+25,"hemlock-hardwoods","Eastern white pine",0.75,0.615833333333333,13,5
+25,"hemlock-hardwoods","Eastern white pine",0.291666666666667,0.251666666666667,10,2
+26,"hemlock-hardwoods","Eastern hemlock",0.341666666666667,0.05,62,2
+26,"hemlock-hardwoods","Eastern white pine",1.58333333333333,0.385833333333333,55,1
+26,"hemlock-hardwoods","Eastern white pine",0.808333333333333,0.6975,10,4
+26,"hemlock-hardwoods","Eastern hemlock",0.458333333333333,0.345,18,3
+26,"hemlock-hardwoods","Oak spp.",0.666666666666667,0.428333333333333,26,2
+26,"hemlock-hardwoods","Black birch",0.333333333333333,0.184166666666667,32.5,2
+27,"hemlock-hardwoods","Eastern hemlock",0.25,0.209166666666667,11.8,2
+27,"hemlock-hardwoods","Eastern hemlock",0.45,0.3675,13.3,1
+27,"hemlock-hardwoods","Unknown",0.833333333333333,0.369166666666667,40.5,3
+28,"hemlock-hardwoods","Oak spp.",0.366666666666667,0.115,49.9,2
+28,"hemlock-hardwoods","Oak spp.",0.266666666666667,0.175,25,2
+28,"hemlock-hardwoods","Red maple",0.466666666666667,0.404166666666667,9.7,3
+28,"hemlock-hardwoods","Red maple",0.691666666666667,0.169166666666667,54.9,3
+28,"hemlock-hardwoods","Red maple",0.275,0.225833333333333,13.1,3
+28,"hemlock-hardwoods","Eastern hemlock",0.316666666666667,0.275833333333333,9.4,1
+29,"pine-hardwoods","Eastern white pine",0.308333333333333,0.2275,19,2
+29,"pine-hardwoods","Northern red oak",0.375,0.235833333333333,27,1
+29,"pine-hardwoods","Northern red oak",0.366666666666667,0.250833333333333,22.9,1
+30,"pine-hardwoods","Unknown",0.391666666666667,0.2825,20.3,3
+30,"pine-hardwoods","Black birch",0.383333333333333,0.318333333333333,12.3,2
+30,"pine-hardwoods","Eastern white pine",0.391666666666667,0.2675,23,2
+30,"pine-hardwoods","Eastern white pine",0.291666666666667,0.263333333333333,7,1
+30,"pine-hardwoods","Eastern white pine",0.308333333333333,0.24,16.2,2
+30,"pine-hardwoods","Black birch",0.275,0.256666666666667,4.9,2
+31,"hemlock-hardwoods","Eastern white pine",0.475,0.305,26,3
+31,"hemlock-hardwoods","Eastern white pine",0.333333333333333,0.0541666666666667,61,3
+31,"hemlock-hardwoods","Black birch",0.383333333333333,0.335,9.1,1
+31,"hemlock-hardwoods","Eastern white pine",0.583333333333333,0.206666666666667,47,5
+31,"hemlock-hardwoods","Unknown",0.833333333333333,0.7075,11,4
+31,"hemlock-hardwoods","Eastern white pine",0.416666666666667,0.329166666666667,15.3,3
+31,"hemlock-hardwoods","Eastern white pine",0.366666666666667,0.340833333333333,5.1,3
+31,"hemlock-hardwoods","Black birch",0.333333333333333,0.26,16,4
+31,"hemlock-hardwoods","White oak",0.808333333333333,0.519166666666667,26,2
+31,"hemlock-hardwoods","White oak",0.566666666666667,0.525,5.3,4
+31,"hemlock-hardwoods","Unknown",1.16666666666667,0.685,30,3
+31,"hemlock-hardwoods","Eastern white pine",0.358333333333333,0.2825,15.4,4
+31,"hemlock-hardwoods","Eastern white pine",0.325,0.289166666666667,8,3
+31,"hemlock-hardwoods","Eastern white pine",0.625,0.444166666666667,21,3
+31,"hemlock-hardwoods","Unknown",0.333333333333333,0.253333333333333,17.4,2
+31,"hemlock-hardwoods","Unknown",0.833333333333333,0.6725,14,3
+31,"hemlock-hardwoods","Unknown",1.75,0.426666666666667,55,1
+32,"hemlock-hardwoods","Eastern hemlock",0.541666666666667,0.4525,12,4
+32,"hemlock-hardwoods","Black birch",0.25,0.219166666666667,9,2
+32,"hemlock-hardwoods","Oak spp.",1.33333333333333,0.6,40,4
+32,"hemlock-hardwoods","Unknown",0.375,0.325833333333333,9.5,3
+32,"hemlock-hardwoods","Unknown",0.416666666666667,0.3025,20,3
+32,"hemlock-hardwoods","Unknown",2.83333333333333,0.495833333333333,60,3
+32,"hemlock-hardwoods","Unknown",0.25,0.219166666666667,9,3
+32,"hemlock-hardwoods","Unknown",0.583333333333333,0.5275,7,4
+33,"hemlock-hardwoods","Unknown",0.566666666666667,0.361666666666667,26.3,3
+33,"hemlock-hardwoods","Black oak",0.258333333333333,0.246666666666667,3.2,1
+33,"hemlock-hardwoods","Black oak",1.36666666666667,0.7125,34.8,1
+33,"hemlock-hardwoods","Eastern hemlock",0.316666666666667,0.219166666666667,22.3,1
+33,"hemlock-hardwoods","Eastern hemlock",0.458333333333333,0.441666666666667,2.6,3
+33,"hemlock-hardwoods","Eastern hemlock",0.341666666666667,0.215833333333333,26.8,1
+33,"hemlock-hardwoods","Eastern hemlock",0.275,0.256666666666667,4.9,2
+33,"hemlock-hardwoods","Eastern hemlock",0.35,0.245,21.8,2
+33,"hemlock-hardwoods","Eastern hemlock",0.316666666666667,0.1475,38.9,1
+34,"hemlock-hardwoods","Eastern hemlock",0.416666666666667,0.3525,11.2,3
+34,"hemlock-hardwoods","Black birch",0.283333333333333,0.258333333333333,6.5,2
+35,"hemlock-hardwoods","Eastern hemlock",0.258333333333333,0.245,3.8,1
+35,"hemlock-hardwoods","Black birch",0.633333333333333,0.411666666666667,25.5,2
+35,"hemlock-hardwoods","Eastern hemlock",0.433333333333333,0.205833333333333,38.2,1
+36,"hemlock-hardwoods","Oak spp.",0.816666666666667,0.334166666666667,43,2
+36,"hemlock-hardwoods","Unknown",0.491666666666667,0.263333333333333,33.8,3
+36,"hemlock-hardwoods","Unknown",0.391666666666667,0.340833333333333,9.5,3
+36,"hemlock-hardwoods","Unknown",0.45,0.429166666666667,3.4,3
+36,"hemlock-hardwoods","Unknown",0.433333333333333,0.393333333333333,6.7,2
+36,"hemlock-hardwoods","Unknown",0.291666666666667,0.268333333333333,5.9,2
+36,"hemlock-hardwoods","Unknown",0.308333333333333,0.268333333333333,9.5,3
+37,"pine-hardwoods","Eastern white pine",0.275,0.255833333333333,5.1,3
+37,"pine-hardwoods","Oak spp.",0.791666666666667,0.45,31.4,3
+37,"pine-hardwoods","Oak spp.",0.891666666666667,0.403333333333333,39.8,3
+38,"pine-hardwoods","Black birch",0.666666666666667,0.5075,17.4,3
+39,"pine-hardwoods","Eastern white pine",0.458333333333333,0.295833333333333,25.8,1
+39,"pine-hardwoods","Eastern white pine",0.416666666666667,0.289166666666667,22.3,2
+40,"hemlock-hardwoods","Red maple",0.666666666666667,0.345833333333333,35,1
+41,"hemlock-hardwoods","Northern red oak",0.6,0.5425,7,2
+41,"hemlock-hardwoods","Eastern hemlock",0.333333333333333,0.276666666666667,12.4,1
+42,"hemlock-hardwoods","Red maple",0.491666666666667,0.410833333333333,12,2
+42,"hemlock-hardwoods","Unknown",0.441666666666667,0.338333333333333,17,3
+43,"pine-hardwoods","White oak",0.4,0.3175,15,2
+43,"pine-hardwoods","Northern red oak",0.391666666666667,0.299166666666667,17.2,3
+43,"pine-hardwoods","White oak",0.725,0.365833333333333,36,3
+44,"pine-hardwoods","Black birch",0.666666666666667,0.611666666666667,6,4
+44,"pine-hardwoods","Northern red oak",0.608333333333333,0.065,65,1
+44,"pine-hardwoods","Northern red oak",0.5,0.4,14.5,1
+44,"pine-hardwoods","Black birch",0.516666666666667,0.4225,13.25,3
+44,"pine-hardwoods","Black birch",0.366666666666667,0.328333333333333,7.6,2
+44,"pine-hardwoods","Eastern hemlock",1.50833333333333,0.508333333333333,48.2,1
+45,"hemlock-hardwoods","Birch spp.",0.916666666666667,0.45,37,4
+45,"hemlock-hardwoods","Unknown",0.533333333333333,0.320833333333333,29,4
+45,"hemlock-hardwoods","White oak",0.541666666666667,0.37,23,3
+45,"hemlock-hardwoods","Eastern hemlock",0.358333333333333,0.326666666666667,6.5,2
+45,"hemlock-hardwoods","White oak",0.483333333333333,0.436666666666667,7,4
+46,"hemlock-hardwoods","Eastern hemlock",0.266666666666667,0.251666666666667,4,1
+46,"hemlock-hardwoods","Northern red oak",0.391666666666667,0.305833333333333,16,2
+46,"hemlock-hardwoods","Unknown",0.333333333333333,0.305833333333333,6,5
+46,"hemlock-hardwoods","Eastern hemlock",0.675,0.304166666666667,40,5
+46,"hemlock-hardwoods","Eastern hemlock",0.533333333333333,0.511666666666667,3,1
+47,"hemlock-hardwoods","Black birch",0.266666666666667,0.248333333333333,5,1
+47,"hemlock-hardwoods","Eastern hemlock",0.266666666666667,0.255833333333333,3,1
+47,"hemlock-hardwoods","Red maple",0.583333333333333,-0.226666666666667,101,1
+47,"hemlock-hardwoods","Black birch",0.35,0.320833333333333,6,1
+47,"hemlock-hardwoods","Eastern hemlock",0.666666666666667,0.556666666666667,12,5
+48,"pine-hardwoods","Red maple",0.525,0.4675,8,3
+48,"pine-hardwoods","Red maple",0.375,0.333333333333333,8,2
+49,"hemlock-hardwoods","Unknown",0.5,0.465833333333333,5,4
+49,"hemlock-hardwoods","Eastern hemlock",0.491666666666667,0.39,15,3
+49,"hemlock-hardwoods","Northern red oak",0.616666666666667,0.549166666666667,8,2
+49,"hemlock-hardwoods","Unknown",0.283333333333333,0.213333333333333,18,2
+49,"hemlock-hardwoods","Eastern hemlock",0.558333333333333,0.32,31,3
+50,"hemlock-hardwoods","Northern red oak",0.616666666666667,0.43,22,2
+50,"hemlock-hardwoods","Eastern hemlock",0.275,0.214166666666667,16,1
+50,"hemlock-hardwoods","Eastern hemlock",0.608333333333333,0.106666666666667,60,1
+50,"hemlock-hardwoods","Red maple",0.366666666666667,0.165,40,2
